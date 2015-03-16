@@ -1,0 +1,85 @@
+      Name             Price          Number          Cost           Discount
+     bread              1550               1          1530                 20
+      milk              1310               2          2620
+     bread              1540               3          4620
+     bread              1450               5          7250
+    potato              1800               2          3400                100
+    butter              3700               1          3700
+    butter              3410               1          3400                 10
+      meat             18000               2         34400                800
+Total cost                                           60920
+
+      Name             Price          Number          Cost           Discount
+    potato              1750               2          3400                 50
+     bread              1550               1          1530                 20
+      milk              1310               2          2620
+     bread              1540               3          4620
+     bread              1450               5          7250
+    potato              1800               2          3400                100
+    butter              3700               1          3700
+    butter              3410               1          3400                 10
+      meat             18000               2         34400                800
+Total cost                                           64320
+
+      Name             Price          Number          Cost           Discount
+    potato              1750               2          3400                 50
+     bread              1550               1          1530                 20
+      milk              1310               2          2620
+     bread              1540               3          4620
+     bread              1450               5          7250
+    potato              1800               2          3400                100
+    butter              3700               1          3700
+    butter              3410               1          3400                 10
+      meat             18000               2         34400                800
+     choco              7200               2         14000                200
+Total cost                                           78320
+
+      Name             Price          Number          Cost           Discount
+    potato              1750               2          3400                 50
+     bread              1550               1          1530                 20
+      meat             21250               2         42400                 50
+      milk              1310               2          2620
+     bread              1540               3          4620
+     bread              1450               5          7250
+    potato              1800               2          3400                100
+    butter              3700               1          3700
+    butter              3410               1          3400                 10
+      meat             18000               2         34400                800
+     choco              7200               2         14000                200
+Total cost                                          120720
+
+Element with number 10 is not found
+Element with number -5 is not found
+      Name             Price          Number          Cost           Discount
+    potato              1750               2          3400                 50
+     bread              1550               1          1530                 20
+      meat             21250               2         42400                 50
+     bread              1540               3          4620
+     bread              1450               5          7250
+    potato              1800               2          3400                100
+    butter              3700               1          3700
+    butter              3410               1          3400                 10
+      meat             18000               2         34400                800
+     choco              7200               2         14000                200
+Total cost                                          118100
+
+      Name             Price          Number          Cost           Discount
+     bread              1540               3          4620
+     bread              1450               5          7250
+     bread              1550               1          1530                 20
+    butter              3700               1          3700
+    butter              3410               1          3400                 10
+     choco              7200               2         14000                200
+      meat             18000               2         34400                800
+      meat             21250               2         42400                 50
+    potato              1750               2          3400                 50
+    potato              1800               2          3400                100
+Total cost                                          118100
+
+Search result:
+Element 
+choco;14000;1;
+is not found
+Element 
+choco;7300;2;300;
+is found at position 5
